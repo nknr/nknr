@@ -1,4 +1,12 @@
-### Hi there 👋
+## About me
+
+- Working at **Tech Mahindra**
+- 🌟 **Experienced Android Developer** with 7+ years of expertise in designing, developing, and deploying high-quality mobile applications.
+- 💻 **Proficient in Java and Kotlin**, specializing in crafting clean, testable, and scalable code for diverse devices and screen sizes.
+- 🔄 API Integration Specialist, skilled in seamlessly connecting apps with RESTful APIs, third-party libraries
+- 📈 Committed to continuous learning and exploring emerging trends in Android development, including **Jetpack Compose** and **Kotlin Coroutines**.
+- 🌍 Open to collaboration, contributing to open-source projects, and sharing knowledge through clean, well-documented code.
+- 🌱 I’m currently learning **Swift**
 
 <!--
 **nknr/nknr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
